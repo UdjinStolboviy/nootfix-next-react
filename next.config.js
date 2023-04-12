@@ -8,8 +8,8 @@ const nextConfig = {
       "lh3.googleusercontent.com",
       "https://res.cloudinary.com",
       "http://localhost:3000/",
-      "https://clone-netf-react-next.vercel.app/",
-      "clone-netf-react-next.vercel.app",
+      "https://nootfix-next-react.vercel.app/",
+      "nootfix-next-react.vercel.app",
     ],
   },
 };
